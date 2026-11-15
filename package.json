@@ -1,0 +1,14 @@
+{
+  "name": "anashion-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fashion store: storefront, content management, inventory and orders.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/smoke.js"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
